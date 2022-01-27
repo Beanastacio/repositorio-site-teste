@@ -10,3 +10,4 @@ function sair(obj){
 
 // Recado inicial sobre o status do site
 window.alert("Olá, o site está em desenvolvimento :)");
+
